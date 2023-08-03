@@ -15,3 +15,10 @@ while True:
 answer  = poly.count(str(an))
 
 print(answer)
+
+# %%
+
+
+
+
+
